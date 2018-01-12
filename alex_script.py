@@ -53,8 +53,6 @@ print "\n"
 
 # Ideally, if possible, in the above instance, also get the average if you include 6 arteries
 
-i = 1
-
 arteryWidths = []
 veinWidths = []
 
