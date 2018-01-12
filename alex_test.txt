@@ -1,0 +1,18 @@
+PROCESSED
+Image:T18MR.tif,  annotator name:alex,  Not a clinician,  date and time:11 01 2018  1.35 PM,  OD and fovea annotator:alex,  date and time OD and fovea annotation:11 01 2018  1.35 PM
+OD: Xc:2194.0,  Yc:1448.3,  radius1:360.6,  radius2:253.1,  theta:0.3,  annotationType:Manual
+FOVEA: Xc:2283.5,  Yc:1058.5,  thetaOD:12.9,  thetaODfov:90.0,  rhoOD:399.9,  thetaIC:22.0,  rhoIC:394.1,  radius:54.3,  visible:NO
+WIDTH: Xw:1007.7,  Yw:1753.2,  thetaOD:255.6,  thetaODfov:332.6,  rhoOD:1224.8,  thetaIC:253.7,  rhoIC:1175.3,  vesselType:V,  width:93.6
+WIDTH: Xw:1034.7,  Yw:1378.0,  thetaOD:273.5,  thetaODfov:350.5,  rhoOD:1161.4,  thetaIC:272.4,  rhoIC:1102.2,  vesselType:A,  width:39.4
+WIDTH: Xw:1280.9,  Yw:657.5,  thetaOD:310.9,  thetaODfov:28.0,  rhoOD:1207.9,  thetaIC:311.9,  rhoIC:1148.4,  vesselType:A,  width:40.5
+WIDTH: Xw:1515.1,  Yw:426.3,  thetaOD:326.4,  thetaODfov:43.5,  rhoOD:1226.9,  thetaIC:328.1,  rhoIC:1175.1,  vesselType:V,  width:45.0
+WIDTH: Xw:1818.3,  Yw:291.2,  thetaOD:342.0,  thetaODfov:59.1,  rhoOD:1216.5,  thetaIC:344.3,  rhoIC:1176.5,  vesselType:A,  width:44.9
+WIDTH: Xw:2391.7,  Yw:390.3,  thetaOD:10.6,  thetaODfov:87.6,  rhoOD:1076.3,  thetaIC:13.9,  rhoIC:1064.9,  vesselType:V,  width:64.7
+WIDTH: Xw:3127.2,  Yw:651.5,  thetaOD:49.5,  thetaODfov:126.6,  rhoOD:1227.1,  thetaIC:52.1,  rhoIC:1256.7,  vesselType:A,  width:45.0
+WIDTH: Xw:3415.4,  Yw:1558.1,  thetaOD:95.1,  thetaODfov:172.2,  rhoOD:1226.4,  thetaIC:96.0,  rhoIC:1286.4,  vesselType:A,  width:41.0
+WIDTH: Xw:3253.3,  Yw:2035.4,  thetaOD:119.0,  thetaODfov:196.1,  rhoOD:1211.2,  thetaIC:118.7,  rhoIC:1273.6,  vesselType:V,  width:60.8
+WIDTH: Xw:2935.1,  Yw:2422.7,  thetaOD:142.7,  thetaODfov:219.8,  rhoOD:1224.2,  thetaIC:141.3,  rhoIC:1279.0,  vesselType:A,  width:50.4
+WIDTH: Xw:2442.7,  Yw:2539.8,  thetaOD:167.2,  thetaODfov:244.2,  rhoOD:1119.5,  thetaIC:164.6,  rhoIC:1157.2,  vesselType:V,  width:55.5
+WIDTH: Xw:1869.3,  Yw:2635.9,  thetaOD:195.3,  thetaODfov:272.4,  rhoOD:1231.2,  thetaIC:192.4,  rhoIC:1240.8,  vesselType:A,  width:49.1
+WIDTH: Xw:1512.1,  Yw:2356.7,  thetaOD:216.9,  thetaODfov:294.0,  rhoOD:1135.9,  thetaIC:213.8,  rhoIC:1122.1,  vesselType:V,  width:37.9
+WIDTH: Xw:1151.8,  Yw:2140.5,  thetaOD:236.4,  thetaODfov:313.5,  rhoOD:1251.1,  thetaIC:233.9,  rhoIC:1217.4,  vesselType:A,  width:31.4
